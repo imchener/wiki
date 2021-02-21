@@ -1,0 +1,10 @@
+created: 20200414150455988
+creator: Lin Onetwo
+module-type: startup
+tags: 不保存经常自己变动的系统或插件式 Tiddler
+title: preventPopUp.js
+type: application/javascript
+
+exports.startup = function() {
+  $tw.unloadTasks = $tw.unloadTasks.filter(task => !task.toString().includes('confirmationMessage'));
+}

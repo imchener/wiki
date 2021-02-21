@@ -1,0 +1,7 @@
+created: 20200604080106170
+creator: LinOnetwo
+list: $:/core/ui/Buttons/home $:/plugins/linonetwo/omni-search-bar/ui/Buttons/search $:/core/ui/Buttons/advanced-search $:/core/ui/Buttons/fold-all $:/core/ui/Buttons/unfold-all $:/plugins/tiddlywiki/markdown/new-markdown-button $:/core/ui/Buttons/new-tiddler $:/plugins/kookma/utility/pagecontrol/view-fields-button $:/plugins/kookma/commander/buttons/pagecontrol $:/core/ui/Buttons/save-wiki $:/core/ui/Buttons/more-page-actions $:/core/ui/Buttons/manager $:/core/ui/Buttons/tag-manager $:/core/ui/Buttons/permaview $:/plugins/kookma/solution/buttons/pagecontrol $:/core/ui/Buttons/new-journal $:/core/ui/Buttons/close-all $:/core/ui/Buttons/new-image $:/core/ui/Buttons/language $:/core/ui/Buttons/palette $:/core/ui/Buttons/export-page $:/core/ui/Buttons/import $:/core/ui/Buttons/theme $:/core/ui/Buttons/storyview $:/core/ui/Buttons/encryption $:/core/ui/Buttons/timestamp $:/core/ui/Buttons/full-screen $:/core/ui/Buttons/print $:/core/ui/Buttons/refresh $:/core/ui/Buttons/control-panel
+modified: 20210221095218012
+modifier: Chener
+title: $:/tags/PageControls
+type: text/vnd.tiddlywiki

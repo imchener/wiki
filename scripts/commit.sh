@@ -1,2 +1,2 @@
 git add -A
-git commit -m "doc: update wiki"
+git commit -m "doc: update public_wiki"

@@ -40,7 +40,7 @@ In `now.json` there is config for deployment, see [zeit.co](https://zeit.co/home
 
 `npm build` and `npm run build:nodejs2html`: pack tiddlywiki data to a HTML file
 
-`npm run build:public`: copy things from `./PublicWiki/public` to `/public`, so they can be served by a static server
+`npm run build:public`: copy things from `./public_wiki/public` to `/public`, so they can be served by a static server
 
 `npm run build:sitemap`: generate sitemap point to `wiki.onetwo.ren`
 
