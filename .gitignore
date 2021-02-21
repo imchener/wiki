@@ -2,6 +2,6 @@
 node_modules
 /public
 public_wiki/output
-public_wiki/tiddlers/private-MyTiddlyWiki
+public_wiki/tiddlers/private_wiki
 /scripts/daemon
 $__StoryList.tid
