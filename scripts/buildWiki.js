@@ -16,11 +16,9 @@ const execAndLog = (command, options) => console.log(String(execSync(command, op
 module.exports = function build() {
   // npm run build:prepare
   execAndLog(`rm -rf ${repoFolder}/public`);
-  // npm run build:prepare for copy images to ./public/images/
-  execAndLog(`mkdir images`);
   // npm run build:public
   execAndLog(
-    `cp -r ${tiddlyWikiFolder}/public/ ./public && cp ${tiddlyWikiFolder}/tiddlers/favicon.ico ./public/favicon.ico && cp ${tiddlyWikiFolder}/tiddlers/tiddlywiki_icon-black.png ./public/images/tiddlywiki_icon-black.png && cp ${tiddlyWikiFolder}/tiddlers/wallpaper.png ./public/images/wallpaper.png && cp ${tiddlyWikiFolder}/tiddlers/favicon.ico ./public/images/favicon.ico`,
+    `cp -r ${tiddlyWikiFolder}/public/ ./public && cp ${tiddlyWikiFolder}/tiddlers/favicon.ico ./public/favicon.ico`,
     { cwd: repoFolder }
   );
   // npm run build:nodejs2html
