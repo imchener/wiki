@@ -18,7 +18,7 @@ module.exports = function build() {
   execAndLog(`rm -rf ${repoFolder}/public`);
   // npm run build:public
   execAndLog(
-    `cp -r ${tiddlyWikiFolder}/public/ ./public && cp ${tiddlyWikiFolder}/tiddlers/favicon.ico ./public/favicon.ico`,
+    `cp -r ${tiddlyWikiFolder}/public/ ./public && cp ${tiddlyWikiFolder}/tiddlers/$__favicon.ico ./public/favicon.ico`,
     { cwd: repoFolder }
   );
   // npm run build:nodejs2html
