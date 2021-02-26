@@ -76,7 +76,7 @@
 		<loc>https://wiki.onetwo.ren/#:文学知识</loc>
 		<lastmod>2021-02-26</lastmod>
 		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
+		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:有价值的大学生竞赛</loc>
@@ -141,6 +141,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:英语学习经验</loc>
 		<lastmod>2021-02-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:词语</loc>
+		<lastmod>2021-02-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
