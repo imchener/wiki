@@ -1,0 +1,14 @@
+created: 20210221143634503
+creator: Chener
+modified: 20210221143651804
+modifier: Chener
+tags: $:/tags/Stylesheet
+title: $:/plugins/tiddlywiki/powered-by-tiddlywiki/styles
+type: text/vnd.tiddlywiki
+
+.tc-powered-by-tiddlywiki-banner {
+	position: fixed;
+	right: 1em;
+	bottom: 0;
+    z-index: 2000;
+}

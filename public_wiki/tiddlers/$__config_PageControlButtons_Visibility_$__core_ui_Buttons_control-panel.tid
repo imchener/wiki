@@ -1,8 +1,8 @@
 created: 20200410174523174
 creator: Chener
-modified: 20210221094941865
+modified: 20210226111112831
 modifier: Chener
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/control-panel
 type: text/vnd.tiddlywiki
 
-hide
+show

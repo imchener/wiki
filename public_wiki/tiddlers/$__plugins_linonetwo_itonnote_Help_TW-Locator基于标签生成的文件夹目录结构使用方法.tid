@@ -1,11 +1,11 @@
 created: 20200413072141568
 creator: LinOnetwo
-modified: 20210221090059205
+modified: 20210226115824228
 modifier: Chener
 title: $:/plugins/linonetwo/itonnote/Help/TW-Locator基于标签生成的文件夹目录结构使用方法
 type: text/vnd.tiddlywiki
 
-侧边栏的「目录结构」标签页里展示了[[通过标签系统自动生成|$:/plugins/linonetwo/itonnote/Help/在 TiddlyWiki 中使用虚拟文件夹]]的文件夹。
+侧边栏的「目录结构」（这里加引号是因为这一目录结构是基于 Tag 的，是 Tag 系统的子集）标签页里展示了[[通过标签系统自动生成|$:/plugins/linonetwo/itonnote/Help/在 TiddlyWiki 中使用虚拟文件夹]]的文件夹。
 
 * 打了 A 标签，即相当于将文件存储在文件夹 A 中，并以 A 的内容作为文件夹的 Readme
 * 在任意Tiddler中使用「创建一个标签为此条目名称的新条目」按钮，可以创建以当前Tiddler为文件夹的文件

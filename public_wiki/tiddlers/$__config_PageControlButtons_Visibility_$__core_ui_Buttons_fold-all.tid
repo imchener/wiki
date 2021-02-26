@@ -1,8 +1,8 @@
 created: 20210221094356700
 creator: Chener
-modified: 20210221094356713
+modified: 20210223113918490
 modifier: Chener
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/fold-all
 type: text/vnd.tiddlywiki
 
-show
+hide

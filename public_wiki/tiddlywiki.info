@@ -23,8 +23,10 @@
     "tiddlywiki/markdown",
     "tiddlywiki/sax",
     "tiddlywiki/text-slicer",
-    "sitemap",
-    "prevent-edit"
+    "tiddlywiki/powered-by-tiddlywiki",
+	"linonetwo/sitemap",
+    "linonetwo/prevent-edit",
+    "linonetwo/opened-tiddlers-bar"
   ],
   "themes": ["tiddlywiki/vanilla"],
   "languages": ["zh-Hans"],

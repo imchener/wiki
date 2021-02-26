@@ -21,13 +21,17 @@ $tw.boot.argv = [
   '--listen',
   `anon-username=${userName}`,
   `port=${tiddlyWikiPort}`,
-  'host=0.0.0.0',
+  'host=127.0.0.1',
   'root-tiddler=$:/core/save/lazy-images',
 ];
 
 try {
+  // https://wangchujiang.com/linux-command/c/find.html
+  // TODO: 找到满足被模式 '*StoryList.tid' 匹配到的文件并删除它 
   execSync(`find ${tiddlersFolder} -name '*StoryList.tid' -delete`);
 } catch (error) {
+  // 抛出错误后继续向下执行
+  // https://www.liaoxuefeng.com/wiki/1022910821149312/1120870328169696
   console.log(String(error));
 }
 

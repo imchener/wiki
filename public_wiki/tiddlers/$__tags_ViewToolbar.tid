@@ -1,0 +1,7 @@
+created: 20210221125342612
+creator: Chener
+list: $:/core/ui/Buttons/edit $:/core/ui/Buttons/close $:/plugins/kookma/trashbin/ui/toolbar-button $:/core/ui/Buttons/delete $:/plugins/bimlas/locator/viewtemplate/open-in-sidebar $:/plugins/felixhayashi/tiddlymap/misc/quickConnectButton $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/new-here $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/clone $:/core/ui/Buttons/info $:/plugins/kookma/favorites/ui/buttons/add-remove $:/core/ui/Buttons/export-tiddler $:/plugins/tiddlywiki/text-slicer/ui/slice-toolbar-button $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/open-window $:/core/ui/Buttons/close-others $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold $:/core/ui/Buttons/fold-bar
+modified: 20210221125531701
+modifier: Chener
+title: $:/tags/ViewToolbar
+type: text/vnd.tiddlywiki

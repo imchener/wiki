@@ -1,9 +1,11 @@
 author: LinOnetwo
 core-version: >=5.0.0
 created: 20200605095918110
+creator: Chener
 dependents: $:/themes/tiddlywiki/vanilla
 description: Notion and VSCode inspired theme
-modified: 20200605095918110
+modified: 20210223135538456
+modifier: Chener
 name: ItonNote Theme
 plugin-priority: 1
 plugin-type: theme

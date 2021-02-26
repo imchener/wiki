@@ -1,8 +1,8 @@
-color: #000
+color: 
 created: 20210221094450799
 creator: Chener
 icon: $:/core/images/options-button
-modified: 20210221100937265
+modified: 20210226111754120
 modifier: Chener
 title: $:/ControlPanel
 type: text/vnd.tiddlywiki

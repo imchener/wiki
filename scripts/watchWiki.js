@@ -1,11 +1,16 @@
 const fs = require('fs');
+// https://www.runoob.com/nodejs/nodejs-path-module.html
+// 使用 Node.js 提供的 Path 模块，声明并定义 Path 的实例
 const path = require('path');
 const execSync = require('child_process').execSync;
 
+// 使用的 package.json 存储的 JSON 对象的 name 属性作为 wikiFolderName
 const wikiFolderName = require('../package.json').name;
 const privateWikiName = require('../package.json').privateWikiName;
 const COMMIT_INTERVAL = (1000 * 60 * 60) / 2;
 
+// https://www.runoob.com/nodejs/nodejs-path-module.html
+// path.join([path1][, path2][, ...]) 用于连接路径。该方法的主要用途在于，会正确使用当前系统的路径分隔符，Unix系统是"/"，Windows系统是"\"。
 const tiddlyWikiRepo = path.join(path.dirname(__filename), '..');
 module.exports.tiddlyWikiRepo = tiddlyWikiRepo;
 
@@ -15,9 +20,14 @@ const privateTiddlyWikiRepo = path.join(tiddlyWikiRepo, '..', privateWikiName);
 module.exports.privateTiddlyWikiRepo = privateTiddlyWikiRepo;
 const privateTiddlyWikiFolder = path.join(tiddlyWikiRepo, '..', privateWikiName);
 
+// http://nodejs.cn/api/path.html#path_path_resolve_paths
+// commitScriptPath = {tiddlyWikiRepo}/scripts/commit.sh}
 const commitScriptPath = path.resolve(tiddlyWikiRepo, 'scripts', 'commit.sh');
 const syncScriptPath = path.resolve(tiddlyWikiRepo, 'scripts', 'sync.sh');
-const frequentlyChangedFileThatShouldBeIgnoredFromWatch = ['output', 'tiddlers/$__StoryList.tid'];
+// 经常被改变的文件应该在监控的时候忽略掉，避免频繁自动上传，这里 output 是打包成一个 html 文件后输出的默认目录
+// ，$__StoryList.tid 是一个系统 Tiddler，里面的 list 字段存储了所有标准 Tiddler 的标题
+const frequentlyChangedFileThatShouldBeIgnoredFromWatch = ['output', 'tiddlers/$__StoryList.tid', 'tiddlers/$__StoryList_1.tid'];
+// 忽略依赖包目录和版本仓库目录
 const topLevelFoldersToIgnored = ['node_modules', '.git'];
 
 /** https://davidwalsh.name/javascript-debounce-function */

@@ -2,9 +2,12 @@ const path = require('path');
 
 const Service = require('./node-mac-windows-linux');
 
+// http://nodejs.cn/api/modules.html#modules_filename
+// __filename 是当前模块的文件名。 这是当前的模块文件的绝对路径（符号链接会被解析）
 const scriptsFolder = path.join(path.dirname(__filename));
 const scriptPath = path.join(scriptsFolder, 'startAndWatchNodeJSWiki.js');
 
+// 为本地 TiddlyWiki 新建一个服务，服务程序就是 startAndWatchNodeJSWiki.js 这一脚本
 const service = new Service({
   /*
     View status using `service tiddlywiki status` on Linux
