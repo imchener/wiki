@@ -7,14 +7,44 @@
 		<priority>0.8</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:C%2520语言的魅力在哪里？</loc>
+		<lastmod>2021-03-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:December%2520的词根%2520decem-%2520词源同%2520ten</loc>
 		<lastmod>2021-02-22</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:FTP%2520服务器%2520in%2520527</loc>
+		<lastmod>2021-03-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Microsoft%2520Search%2520文件太大</loc>
+		<lastmod>2021-03-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:Surfingkeys%2520配置问题收录</loc>
+		<lastmod>2021-03-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:VS%2520Code%2520也采用了%2520Electron%2520技术</loc>
 		<lastmod>2021-02-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:cpp</loc>
+		<lastmod>2021-03-10</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -55,14 +85,44 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:使用固定%2520IP，而不是%2520DHCP%2520动态%2520IP</loc>
+		<lastmod>2021-03-04</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:医疗与互联网</loc>
 		<lastmod>2021-02-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:声明、定义、赋值和初始化</loc>
+		<lastmod>2021-03-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:如何让自己的文章更受欢迎</loc>
+		<lastmod>2021-03-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:我的文章阅读闭环</loc>
 		<lastmod>2021-02-26</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:手写为什么利于学习</loc>
+		<lastmod>2021-03-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:打磨工具</loc>
+		<lastmod>2021-03-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -121,6 +181,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:用%2520SMB%2520协议在%2520Windows%2520和%2520iPad%2520之间共享文件</loc>
+		<lastmod>2021-02-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:目录</loc>
 		<lastmod>2021-02-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -141,6 +207,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:英语学习经验</loc>
 		<lastmod>2021-02-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:虚拟机软件中的桥接模式和%2520NAT%2520模式的差别</loc>
+		<lastmod>2021-03-05</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -169,8 +241,26 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:软件开发</loc>
+		<lastmod>2021-03-10</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:配置%2520DHCP%2520服务器实验总结</loc>
 		<lastmod>2021-02-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:阅读记录</loc>
+		<lastmod>2021-03-09</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:隐藏的滴答清单操作</loc>
+		<lastmod>2021-03-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
