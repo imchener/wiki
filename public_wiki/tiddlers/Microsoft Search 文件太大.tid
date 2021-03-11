@@ -1,0 +1,12 @@
+created: 20210306090616115
+creator: Chener
+modified: 20210306094127341
+modifier: Chener
+tags: 
+title: Microsoft Search 文件太大
+type: text/vnd.tiddlywiki
+
+<kbd>Win</kbd> + <kbd>Q</kbd> 搜索「索引选项」，缩小索引范围，然后点击「高级」选项重建索引。一般来说，只索引「开始」菜单就行了，搜索文件的话用 Everything 来代替。
+
+---
+https://miracleqi.gitee.io/loveu/18198fca/

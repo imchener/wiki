@@ -1,0 +1,11 @@
+created: 20210227032407220
+creator: Chener
+modified: 20210227032851708
+modifier: Chener
+tags: 打磨工具
+title: 用 SMB 协议在 Windows 和 iPad 之间共享文件
+type: text/vnd.tiddlywiki
+
+注意，连接服务器时，服务器一栏要指名协议。
+
+密码不是开机登录时的密码，而是你的 Microsoft 账户密码。微软账户的名称一般是你的昵称，真正的用户名在你开机时就确定了（我也记不清了，貌似是新机到手开机时让注册过一个初始账户，当时不知道那是用户名，就填了邮箱）。

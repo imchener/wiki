@@ -1,0 +1,28 @@
+created: 20210311082307608
+creator: Chener
+modified: 20210311100937380
+modifier: Chener
+tags: 
+title: FTP 服务器 in 527
+type: text/vnd.tiddlywiki
+
+1. <kbd>Win</kbd> + <kbd>R</kbd> 运行：optionalfeatures
+
+2. 勾选 Internet Information Service 下的 FTP 服务器，安装 FTP server，然后勾选 Web 管理工具下的 IIS 管理控制台；
+
+4. <kbd>Win</kbd> + <kbd>Q</kbd> 搜素：IIS，打开 IIS 管理控制台；
+
+5. 添加 FTP 站点，配置站点 IP 等参数；
+
+如果想让别人的电脑访问你的 FTP 服务器，还需要设置防火墙：
+
+* 打开 `控制面板\系统和安全\Windows Defender 防火墙\允许的应用`，允许 FTP server 和 svchost 这两个''应用程序''通过防火墙。
+* svchost 是 Windows 服务主程序，需要通过「允许其他应用」选项卡自己添加，文件路径为 `C:\Windows\System32\svchost.exe`
+
+如果别人访问你的 FTP 服务器时，中文目录名显示为乱码，可以在 IIS 管理控制台中查看下自己的 FTP 站点默认值，看下是否允许使用 UTF-8 字符编码。
+
+---
+* [[关于 FTP 扩展性|https://docs.microsoft.com/en-us/previous-versions/iis/smooth-streaming-client/ftp-service-extensibility-reference]]
+* [[关于 svchost.exe|https://en.wikipedia.org/wiki/Svchost.exe]]
+* [[zhihu.com|https://zhuanlan.zhihu.com/p/36070173]]
+* [[blog.csdn.net|https://blog.csdn.net/Junson142099/article/details/108833063]]
