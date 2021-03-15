@@ -1,0 +1,13 @@
+created: 20210311134314876
+creator: Chener
+modified: 20210311140338970
+modifier: Chener
+tags: 
+title: int const * const pw;
+type: text/vnd.tiddlywiki
+
+可以理解为 `int const (* const pw); // 说明 (* const pw) 是一个常量（整形常量）`
+
+可以理解为  `int const * (const pw); // 说明 pw 是一个常量（指针常量）`
+
+不过，`const int * const pw;` 这种写法跟 `int const * const pw;` 的效果是一样的，但就没法这样理解了。
