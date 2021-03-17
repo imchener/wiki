@@ -37,6 +37,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:VIM%2520的全拼到底是什么</loc>
+		<lastmod>2021-03-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:VS%2520Code%2520也采用了%2520Electron%2520技术</loc>
 		<lastmod>2021-02-24</lastmod>
 		<changefreq>monthly</changefreq>
@@ -157,6 +163,12 @@
 		<priority>0.8</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:曹大：人人都有认知障</loc>
+		<lastmod>2021-03-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:有价值的大学生竞赛</loc>
 		<lastmod>2021-02-23</lastmod>
 		<changefreq>monthly</changefreq>
@@ -170,7 +182,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:没加%2520Tag%2520的笔记</loc>
-		<lastmod>2021-02-26</lastmod>
+		<lastmod>2021-03-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -189,6 +201,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:理解平行宇宙%2520/%2520平行世界</loc>
 		<lastmod>2021-02-25</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:生活攻略</loc>
+		<lastmod>2021-03-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -213,6 +231,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:直连网段中的主机要处在同一个网段</loc>
 		<lastmod>2021-03-11</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:程序员着笔的生活攻略</loc>
+		<lastmod>2021-03-16</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -302,7 +326,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:首页</loc>
-		<lastmod>2021-02-26</lastmod>
+		<lastmod>2021-03-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
