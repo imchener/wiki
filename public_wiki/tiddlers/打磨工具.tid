@@ -1,7 +1,9 @@
 created: 20210301132515824
 creator: Chener
-modified: 20210301132515881
+modified: 20210317053513290
 modifier: Chener
 tags: 目录
 title: 打磨工具
 type: text/vnd.tiddlywiki
+
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

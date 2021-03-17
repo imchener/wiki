@@ -1,7 +1,7 @@
 color: #42a5f5
 created: 20210226111407722
 creator: Chener
-modified: 20210226124936726
+modified: 20210317053700434
 modifier: Chener
 tags: 目录
 title: Anki
@@ -10,6 +10,7 @@ type: text/vnd.tiddlywiki
 这一文件夹中记录的是需要记忆或需要刻意重复的 Tiddler
 
 ---
+
 <$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />
 
 这种目录现实是基于宏命令的
