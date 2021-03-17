@@ -1,6 +1,6 @@
 created: 20210226104531613
 creator: Chener
-modified: 20210226123801262
+modified: 20210317051232237
 modifier: Chener
 tags: 
 title: 没加 Tag 的笔记
@@ -11,7 +11,3 @@ type: text/vnd.tiddlywiki
 <$list filter="[untagged[]!is[system]] +[sort[title]]">
 {{||$:/core/ui/TagTemplate}}
 </$list>
-
----
-
-<$list filter={{$:/core/Filters/Orphans!!filter}} template="$:/core/ui/ListItemTemplate"/>

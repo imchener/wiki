@@ -1,9 +1,12 @@
 created: 20210221085300101
 creator: Chener
-modified: 20210226123841532
+modified: 20210317051327348
 modifier: Chener
 title: 首页
 tmap.id: e1783b25-7f17-474a-8cfb-e6775caf05a9
 type: text/vnd.tiddlywiki
 
+本界面基于 TiddlyWiki 服务生成，我将其作为我的 Wiki，也可以说是一个 Q&A 库，只有解决了我的问题的文字才会留在这里，其余的都放在 [[flomo|https://flomoapp.com]] 这瓶老酒里面，因我持续维护而持续发酵。这样做的原因是因为我想记录下来我解决每个重大问题的思路，以及参考资料，日积月累，可能会帮我节省很多通过搜索引擎搜索答案的时间。此想法产生于「编程随想」大佬的[[这篇文章|https://program-think.blogspot.com/2013/10/personal-it-infrastructure.html]]，相信对你或多或少也会有一些启发。
+
+---
 <<reuse-tiddler "没加 Tag 的笔记">>
