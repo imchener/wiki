@@ -1,6 +1,6 @@
 created: 20210311082307608
 creator: Chener
-modified: 20210311101451989
+modified: 20210318124943026
 modifier: Chener
 tags: 计算机网络
 title: FTP 服务器 in 527
@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 
 2. 勾选 Internet Information Service 下的 FTP 服务器，安装 FTP server，然后勾选 Web 管理工具下的 IIS 管理控制台；
 
-4. <kbd>Win</kbd> + <kbd>Q</kbd> 搜素：IIS，打开 IIS 管理控制台；
+4. <kbd>Win</kbd> + <kbd>Q</kbd> 搜索：IIS，打开 IIS 管理控制台；
 
 5. 添加 FTP 站点，配置站点 IP 等参数；
 

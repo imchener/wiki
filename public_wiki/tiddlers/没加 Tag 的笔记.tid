@@ -1,13 +1,13 @@
 created: 20210226104531613
 creator: Chener
-modified: 20210317051232237
+modified: 20210318142454590
 modifier: Chener
 tags: 
 title: 没加 Tag 的笔记
 type: text/vnd.tiddlywiki
 
-这些笔记还没有标签：
+这些笔记还没有标签，不要忘了整理：
 
-<$list filter="[untagged[]!is[system]] +[sort[title]]">
+<$list filter="[!is[system]untagged[]] +[sort[title]] +[![没加 Tag 的笔记]![首页]!regexp[(?i)\.png$]]">
 {{||$:/core/ui/TagTemplate}}
 </$list>
