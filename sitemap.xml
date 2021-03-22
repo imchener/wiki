@@ -103,6 +103,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:为何编程需要数学？</loc>
+		<lastmod>2021-03-22</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:什么是“明知识”、“默知识”和“暗知识”？</loc>
 		<lastmod>2021-02-26</lastmod>
 		<changefreq>monthly</changefreq>
@@ -283,6 +289,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:自控力可能根本就不存在</loc>
+		<lastmod>2021-03-20</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:苟有恒，何必三更起五更眠？</loc>
 		<lastmod>2021-03-18</lastmod>
 		<changefreq>monthly</changefreq>
@@ -314,7 +326,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:词语</loc>
-		<lastmod>2021-03-17</lastmod>
+		<lastmod>2021-03-20</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
