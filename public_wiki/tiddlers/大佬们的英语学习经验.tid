@@ -1,6 +1,6 @@
 created: 20210225081224085
 creator: Chener
-modified: 20210323113816907
+modified: 20210323134226311
 modifier: Chener
 tags: 英语学习
 title: 大佬们的英语学习经验
@@ -9,17 +9,22 @@ type: text/vnd.tiddlywiki
 
 见了文章多了，就对那些写出好文章的作者产生了兴趣，进而想了解他们，你会发现他们都有一个很细微的共同点 —— 阅读英文资料无压力。所以在此记录下大佬们分享的宝贵学习经验。
 
-''发音很重要''
+1. 发音很重要
 
 <<<
 不过稍微不同的是，我其实是分成了三个阶段学习（可以融合在一起，也就是视频里传达的方法）。我先从发音开始练习的（把音标放到单词里练习），然后是练习的句子，最后学习了语法。
 
 三个阶段中的主要练习对象分别是：发音 (发音也很重要) —> 例句 —> 语法
 
-via YJango
+via [[YJango|https://www.bilibili.com/video/BV1GV411S7Cb]]
 <<<
 
----
-* [[yinwang.org|https://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips]] via 当然我在扯淡
-* [[bilibili.com|https://www.bilibili.com/video/BV1GV411S7Cb]] via YJango
+2. 刻意练习 parse 过程
 
+<<<
+人脑处理语言有一个隐含的「parse」过程，就像编程语言的 parser。你需要训练自己的 parse 能力。利用上面对句子结构的理解，你可以快速分析出句子里最关键的“骨架”，然后再填充修饰部分。这样你就能理解长句。
+
+最好花一些时间专门练习这种 parse 能力。反复读一些你感兴趣的英语技术文档。可以是书籍，也可以是网络上的 blog。比如你可以拿两段话来练习，把每句话按照我提出的“函数调用”结构分解开，画出函数名，参数，修饰语，构造一棵「语法树」。反复琢磨语法树的结构，然后再回去读这两段话，直到你可以迅速把每句话都看出「语法树」来。
+
+via [[当然我在扯淡|https://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips]]
+<<<
