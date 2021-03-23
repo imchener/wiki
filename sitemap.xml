@@ -37,6 +37,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:NPEE%2520100%2520问</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:Surfingkeys%2520配置问题收录</loc>
 		<lastmod>2021-03-06</lastmod>
 		<changefreq>monthly</changefreq>
@@ -79,8 +85,32 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:一些值得注意的小细节</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:万维网相当于因特网世界中的造纸术</loc>
 		<lastmod>2021-02-22</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:不要大喊大叫%2520——%2520小议标点和格式在表达强调中的滥用</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:中式教材到底存在什么暗病</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:为什么我们会对看文章感到乏味，是文章枯燥吗？</loc>
+		<lastmod>2021-03-23</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -139,6 +169,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:大佬们的英语学习经验</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:如何让自己的文章更受欢迎</loc>
 		<lastmod>2021-03-09</lastmod>
 		<changefreq>monthly</changefreq>
@@ -151,10 +187,22 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:学术考研</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:将知识结点连成线的标签</loc>
 		<lastmod>2021-03-18</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:待完善</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:我的文章阅读闭环</loc>
@@ -170,13 +218,25 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:打磨工具</loc>
-		<lastmod>2021-03-17</lastmod>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:找到适合自己的考研作息</loc>
+		<lastmod>2021-03-23</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:摆脱惯性思维，拿回人生控制权</loc>
 		<lastmod>2021-03-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:数学考研：关于要不要看教材？</loc>
+		<lastmod>2021-03-23</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -201,6 +261,30 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:有价值的大学生竞赛</loc>
 		<lastmod>2021-02-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:有哪些需要注意的时间节点？</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:李王复习全书基础版和张宇基础%252030%2520讲的区别</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:李王复习全书基础版和满血版的区别</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:每年的考研大纲在哪里看？</loc>
+		<lastmod>2021-03-23</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -271,6 +355,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:精选互联网搜索指南</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:纸上得来终觉浅</loc>
 		<lastmod>2021-02-22</lastmod>
 		<changefreq>monthly</changefreq>
@@ -279,6 +369,18 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:网址公式</loc>
 		<lastmod>2021-02-24</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:网课时间版本该怎么选？</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:考研数学：复习全书和辅导讲义的区别</loc>
+		<lastmod>2021-03-23</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -301,8 +403,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:英语学习经验</loc>
-		<lastmod>2021-02-25</lastmod>
+		<loc>https://wiki.onetwo.ren/#:英语学习</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:英语泛听该怎样进行</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:英语的长难句为什么会成为一个讲点？</loc>
+		<lastmod>2021-03-23</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -361,6 +475,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:针对英语阅读的外刊题源应该看么？</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:阅读记录</loc>
 		<lastmod>2021-03-17</lastmod>
 		<changefreq>monthly</changefreq>
@@ -380,7 +500,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:首页</loc>
-		<lastmod>2021-03-18</lastmod>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:高数绿本和蓝本有什么区别？</loc>
+		<lastmod>2021-03-23</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:高数跟谁？汤神、宇哥，还是武老师</loc>
+		<lastmod>2021-03-23</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
