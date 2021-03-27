@@ -1,10 +1,14 @@
 color: #ff7500
 created: 20210226121245584
 creator: Chener
-modified: 20210318142126876
+modified: 20210325051621497
 modifier: Chener
 tags: 文学知识
 title: 诗词歌赋
 type: text/vnd.tiddlywiki
+
+越来越惊叹文言文的用词技巧，有时候诗词中的一句话真的可以直击人心，用在写作中岂不美哉。所以我开始收纳我感兴趣的诗词。
+
+---
 
 <$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />
