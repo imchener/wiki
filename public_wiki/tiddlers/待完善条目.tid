@@ -1,9 +1,9 @@
-created: 20210327125216033
+color: #0eb83a
+created: 20210323114602021
 creator: Chener
-modified: 20210327130503976
+modified: 20210328135527291
 modifier: Chener
-tags: 目录
-title: 数学基础
+title: 待完善条目
 type: text/vnd.tiddlywiki
 
 <$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

@@ -9,4 +9,5 @@ IT 领域最重要的是经验而不是你有多聪明，不聪明的人或者�
 <u>钢精读别人的回答，永远不会去正面理解，而只会想尽一切办法找这个答案的漏洞。</u>
 
 ---
-https://www.zhihu.com/question/312019918/answer/608965942
+
+[[zhihu.com|https://www.zhihu.com/question/312019918/answer/608965942]]
