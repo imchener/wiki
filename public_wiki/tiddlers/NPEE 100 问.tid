@@ -1,10 +1,14 @@
 color: #ff4c00
 created: 20210323114144848
 creator: Chener
-modified: 20210328135306287
+modified: 20210329143741797
 modifier: Chener
-tags: 学术考研
+tags: [[11 考研问题]]
 title: NPEE 100 问
 type: text/vnd.tiddlywiki
+
+NPEE 全称 National Postgraduate Entrance Examination，即国家研究生入学考试。
+
+---
 
 <$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

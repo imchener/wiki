@@ -1,8 +1,8 @@
 created: 20210305054744776
 creator: Chener
-modified: 20210328131450773
+modified: 20210329143433934
 modifier: Chener
-tags: 计算机网络
+tags: [[21 学以致用]]
 title: 虚拟机软件中的桥接模式和 NAT 模式的差别
 type: text/vnd.tiddlywiki
 
@@ -20,4 +20,5 @@ type: text/vnd.tiddlywiki
 如果让虚拟机能上网。两种模式都能够的，用桥接的话只要你在局域网内有合法的地址，比方你的 ADSL 猫 (Modem) 是带路由功能的，假设是在单位。那就要网管给你合法 IP 才行（如今公司都是 mac 和 ip 绑定的）。
 
 ---
-https://www.cnblogs.com/qingqing1/p/11280379.html
+
+[[cnblogs.com|https://www.cnblogs.com/qingqing1/p/11280379.html]]

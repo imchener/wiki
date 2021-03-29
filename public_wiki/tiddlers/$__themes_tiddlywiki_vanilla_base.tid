@@ -1,6 +1,6 @@
 created: 20210221133420992
 creator: Chener
-modified: 20210221134559188
+modified: 20210329091429457
 modifier: Chener
 tags: $:/tags/Stylesheet
 title: $:/themes/tiddlywiki/vanilla/base
@@ -129,9 +129,10 @@ code {
 }
 
 blockquote {
-	border-left: 5px solid <<colour blockquote-bar>>;
-	margin-left: 25px;
-	padding-left: 10px;
+	border-left: 5px solid #dfe2e5;
+	padding: 0 15px;
+	margin: 0.8em 0;
+	color: #777777;
 	quotes: "\201C""\201D""\2018""\2019";
 }
 

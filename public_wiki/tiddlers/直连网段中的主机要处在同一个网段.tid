@@ -1,9 +1,0 @@
-created: 20210311134243036
-creator: Chener
-modified: 20210311134256196
-modifier: Chener
-tags: 计算机网络
-title: 直连网段中的主机要处在同一个网段
-type: text/vnd.tiddlywiki
-
-因为没有路由器，所以要设置同一个网段，让主机直接交付给另一台主机。

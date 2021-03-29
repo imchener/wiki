@@ -1,9 +1,0 @@
-created: 20210328134321053
-creator: Chener
-modified: 20210328135046550
-modifier: Chener
-tags: 目录
-title: 个人见解
-type: text/vnd.tiddlywiki
-
-<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

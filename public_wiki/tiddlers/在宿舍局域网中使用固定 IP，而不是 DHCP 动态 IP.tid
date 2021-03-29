@@ -1,0 +1,14 @@
+created: 20210304113450456
+creator: Chener
+modified: 20210329143433921
+modifier: Chener
+tags: [[21 学以致用]]
+title: 在宿舍局域网中使用固定 IP，而不是 DHCP 动态 IP
+type: text/vnd.tiddlywiki
+
+前言：在宿舍的无线局域网中，默认采用 DHCP 分配 IP，但是 IP 总是在不知情的情况下发生变动，在进行网络实验时不太方便，所以想着固定下来 IP.
+
+具体步骤：
+
+# 用 ipconfig/all 获取默认网关的 IP 地址（就是离你电脑最近的一个路由器的地址）、DNS 服务器的 IP 地址（你会发现它跟网关的地址是一样的，这是因为路由器提供了 DNS 服务）；
+# 设置固定 IP、子网掩码、默认网关和首选 DNS 服务器，这几项中有一项没有配置，就建立不了一次完整的 HTTP 连接。

@@ -1,9 +1,0 @@
-created: 20210328130337707
-creator: Chener
-modified: 20210328133552914
-modifier: Chener
-tags: 目录
-title: 写作技巧
-type: text/vnd.tiddlywiki
-
-<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

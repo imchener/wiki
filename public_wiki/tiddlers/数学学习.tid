@@ -1,9 +1,0 @@
-created: 20210327125216033
-creator: Chener
-modified: 20210328133151265
-modifier: Chener
-tags: 目录
-title: 数学学习
-type: text/vnd.tiddlywiki
-
-<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

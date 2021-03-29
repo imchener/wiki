@@ -1,9 +1,0 @@
-created: 20210328112231769
-creator: Chener
-modified: 20210328133130345
-modifier: Chener
-tags: 生活频道
-title: 儿童教育
-type: text/vnd.tiddlywiki
-
-<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

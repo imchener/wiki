@@ -1,0 +1,11 @@
+created: 20210329092428849
+creator: Chener
+modified: 20210329130107269
+modifier: Chener
+tags: 工具心得
+title: GUI and CLI
+type: text/vnd.tiddlywiki
+
+GUI 处理复杂功能时，要比用纯文本的方式好得多。
+
+然而对于重复性的、轻量型的工作，CLI 往往更加有效率。
