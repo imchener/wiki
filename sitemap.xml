@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://wiki.onetwo.ren/#:00%2520个人观念</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-03-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -39,6 +39,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:15%2520哲学问题</loc>
 		<lastmod>2021-03-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:16%2520生物问题</loc>
+		<lastmod>2021-03-31</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -380,7 +386,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:大学课程为什么从高级程序设计语言开始学起？</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-03-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -404,7 +410,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:如何进行碎片化阅读</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-03-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -416,7 +422,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:学习任何知识都是在学习它的历史</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-03-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -427,14 +433,8 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:安卓手机到底存在什么桎梏</loc>
-		<lastmod>2021-03-29</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://wiki.onetwo.ren/#:将知识结点连成线的标签</loc>
-		<lastmod>2021-03-18</lastmod>
+		<lastmod>2021-03-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -482,7 +482,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:手写笔记为什么有利于学习</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-03-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -602,13 +602,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:目录</loc>
-		<lastmod>2021-03-17</lastmod>
+		<lastmod>2021-03-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:看书的两个境界</loc>
 		<lastmod>2021-03-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:睡眠是如何加强神经元突触连接的</loc>
+		<lastmod>2021-03-31</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -679,6 +685,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:胡扯！我发现艾宾浩斯记忆法是后人编的，注意是记忆法，不是曲线！！曲线是科研成果，记忆法是杜撰！</loc>
+		<lastmod>2021-03-31</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:自控力可能根本就不存在</loc>
 		<lastmod>2021-03-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -722,7 +734,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:计算机科学与技术学习反思录</loc>
-		<lastmod>2021-03-28</lastmod>
+		<lastmod>2021-03-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -782,7 +794,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:首页</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-03-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
