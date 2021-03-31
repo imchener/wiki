@@ -1,6 +1,6 @@
 created: 20210221133420992
 creator: Chener
-modified: 20210329091429457
+modified: 20210331150150534
 modifier: Chener
 tags: $:/tags/Stylesheet
 title: $:/themes/tiddlywiki/vanilla/base
@@ -964,7 +964,7 @@ button.tc-btn-invisible.tc-remove-tag-button {
 .tc-site-title,
 .tc-titlebar {
 	font-weight: 500;
-	font-size: 2.35em;
+	font-size: 1.8em;
 	line-height: 1.2em;
 	color: <<colour tiddler-title-foreground>>;
 	margin: 0;
