@@ -85,6 +85,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:34%2520播客笔记</loc>
+		<lastmod>2021-04-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:40%2520文艺休闲</loc>
 		<lastmod>2021-03-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -98,7 +104,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:C%2520语言的魅力在哪里？</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -121,8 +127,8 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:GUI%2520and%2520CLI</loc>
-		<lastmod>2021-03-29</lastmod>
+		<loc>https://wiki.onetwo.ren/#:GUI%2520vs.%2520CLI</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -151,12 +157,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:MindMaster%2520怎么样</loc>
-		<lastmod>2021-03-29</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://wiki.onetwo.ren/#:NPEE%2520100%2520问</loc>
 		<lastmod>2021-03-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -164,13 +164,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:Pointers：聊一聊程序员的认知偏见</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:RSS%2520和%2520Newsletter%2520的区别</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -188,7 +188,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:YJango</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -201,6 +201,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:cpp</loc>
 		<lastmod>2021-03-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:flomo</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -229,6 +235,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:一个中科大差生的%25208%2520年程序员工作总结</loc>
+		<lastmod>2021-04-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:一个英文单词为什么可以有不同的音标？</loc>
 		<lastmod>2021-03-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -242,13 +254,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:一本书浓缩起来的干货还不如一篇公众号文章或知乎上一个观点，那不看书，看公众号文章和知乎可以吗？</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:一派%2520·%2520Podcast丨碎片信息的收集与管理</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:一派%2520·%2520Podcast丨禅修与思维导图艺术</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -259,8 +277,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:上世纪人类网上冲浪的珍贵史料%2520(第一次浏览器大战)</loc>
+		<lastmod>2021-04-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:不要大喊大叫%2520——%2520小议标点和格式在表达强调中的滥用</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -277,25 +301,19 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:为什么想要把自己的思想装到别人的脑袋里面很难？</loc>
-		<lastmod>2021-03-29</lastmod>
+		<loc>https://wiki.onetwo.ren/#:为什么学习写作，对多数人并没有用处</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:为什么我们会对看文章感到乏味，是文章枯燥吗？</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:为什么英语不能按照汉语意思来翻译呢？</loc>
-		<lastmod>2021-03-29</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:为什么记笔记时，总想加上一个具体的例子？就像辩论时总是举例子一样？</loc>
 		<lastmod>2021-03-29</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -314,7 +332,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:人和机器的区别</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -344,13 +362,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:医疗与互联网</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:听网课的好处</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -368,7 +386,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:墨墨记单词的优点</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -386,7 +404,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:大学课程为什么从高级程序设计语言开始学起？</loc>
-		<lastmod>2021-03-30</lastmod>
+		<lastmod>2021-04-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:奉为圭臬%2520[fèng%2520wéi%2520guī%2520niè]</loc>
+		<lastmod>2021-04-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:如何处理碎片化信息</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -398,19 +428,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:如何看待知识付费？结论和道理是最不值钱的</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:如何让自己的文章更受欢迎</loc>
 		<lastmod>2021-03-29</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:如何进行碎片化阅读</loc>
-		<lastmod>2021-03-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -422,27 +446,21 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:学习任何知识都是在学习它的历史</loc>
-		<lastmod>2021-03-30</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://wiki.onetwo.ren/#:学习相关</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:将知识结点连成线的标签</loc>
-		<lastmod>2021-03-30</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:工具心得</loc>
-		<lastmod>2021-03-29</lastmod>
+		<loc>https://wiki.onetwo.ren/#:少数派</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
+		<priority>0.8</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:待完善条目</loc>
@@ -453,6 +471,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:微分与积分</loc>
 		<lastmod>2021-03-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:德不配位</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -470,19 +494,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:性与杀戮改变了所有生物的轨迹？六亿年前到底发生了什么？</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:我的文章阅读闭环</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:手写笔记为什么有利于学习</loc>
-		<lastmod>2021-03-30</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -495,6 +519,24 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:找到适合自己的考研作息</loc>
 		<lastmod>2021-03-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:拒绝剪藏，把摩擦力放在合适的位置</loc>
+		<lastmod>2021-04-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:搜索引擎使用指南</loc>
+		<lastmod>2021-04-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:收集、搜集和收纳</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -553,14 +595,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:没加%2520Tag%2520的笔记</loc>
-		<lastmod>2021-03-29</lastmod>
+		<loc>https://wiki.onetwo.ren/#:求于至简，归于永恒</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:热门话题</loc>
-		<lastmod>2021-03-29</lastmod>
+		<loc>https://wiki.onetwo.ren/#:没加%2520Tag%2520的笔记</loc>
+		<lastmod>2021-04-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:法则、原则和方法</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -578,19 +626,25 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:理解平行宇宙%2520/%2520平行世界</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:用%2520GTD%2520的方法结束稍后读</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:用%2520SMB%2520协议在%2520Windows%2520和%2520iPad%2520之间共享文件</loc>
 		<lastmod>2021-03-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:电子书：扫描版和影印版的区别</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -603,6 +657,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:目录</loc>
 		<lastmod>2021-03-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:目标和欲望的区别</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -620,7 +680,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:知识库%2520vs.%2520个人%2520Wiki</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -631,14 +691,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:笔记心得</loc>
+		<loc>https://wiki.onetwo.ren/#:精选互联网搜索指南</loc>
 		<lastmod>2021-03-29</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:精选互联网搜索指南</loc>
-		<lastmod>2021-03-29</lastmod>
+		<loc>https://wiki.onetwo.ren/#:系统和体系</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -657,6 +717,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:绘画</loc>
 		<lastmod>2021-03-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:维度</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -680,7 +746,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:聊聊对教材的认知偏见</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -699,6 +765,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:苟有恒，何必三更起五更眠？</loc>
 		<lastmod>2021-03-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:英语学习的一些经验</loc>
+		<lastmod>2021-04-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -727,6 +799,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:观念、理念和信念</loc>
+		<lastmod>2021-04-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:规划和计划</loc>
+		<lastmod>2021-04-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:计算机科学与技术和数学的关系</loc>
 		<lastmod>2021-03-28</lastmod>
 		<changefreq>monthly</changefreq>
@@ -734,7 +818,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:计算机科学与技术学习反思录</loc>
-		<lastmod>2021-03-30</lastmod>
+		<lastmod>2021-04-02</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:设置和配置的区别</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -746,13 +836,19 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:赛博朋克在表达怎样的观念</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:配置%2520DHCP%2520服务器实验总结</loc>
 		<lastmod>2021-03-29</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:配置和设置</loc>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -788,13 +884,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:颜色与身份</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:首页</loc>
-		<lastmod>2021-03-30</lastmod>
+		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
