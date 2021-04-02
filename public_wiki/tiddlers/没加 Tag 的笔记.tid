@@ -1,6 +1,6 @@
 created: 20210226104531613
 creator: Chener
-modified: 20210329115520394
+modified: 20210402141044547
 modifier: Chener
 tags: 
 title: 没加 Tag 的笔记
@@ -8,6 +8,6 @@ type: text/vnd.tiddlywiki
 
 这些笔记还没有标签，不要忘了整理：
 
-<$list filter="[!is[system]untagged[]] +[sort[title]] +[![没加 Tag 的笔记]![待完善条目]![首页]!regexp[(?i)\.png$]![将知识结点连成线的标签]![YJango]]">
+<$list filter="[!is[system]untagged[]] +[sort[title]] +[![没加 Tag 的笔记]![待完善条目]![首页]!regexp[(?i)\.png$]![将知识结点连成线的标签]![YJango]![少数派]]">
 {{||$:/core/ui/TagTemplate}}
 </$list>
