@@ -1,12 +1,12 @@
 created: 20210304113450456
 creator: Chener
-modified: 20210329143433921
+modified: 20210403063319909
 modifier: Chener
 tags: [[21 学以致用]]
 title: 在宿舍局域网中使用固定 IP，而不是 DHCP 动态 IP
 type: text/vnd.tiddlywiki
 
-前言：在宿舍的无线局域网中，默认采用 DHCP 分配 IP，但是 IP 总是在不知情的情况下发生变动，在进行网络实验时不太方便，所以想着固定下来 IP.
+缘起：在宿舍的无线局域网中，默认采用 DHCP 分配 IP，但是 IP 总是在不知情的情况下发生变动，在进行网络实验时不太方便，所以想着固定下来 IP.
 
 具体步骤：
 
