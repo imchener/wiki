@@ -187,6 +187,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:Vim%2520练级攻略</loc>
+		<lastmod>2021-04-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:YJango</loc>
 		<lastmod>2021-04-01</lastmod>
 		<changefreq>monthly</changefreq>
@@ -290,7 +296,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:世界观、人生观和价值观之间的联系</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -361,6 +367,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:刘欣：把机会把握住自己手中，而不是资本家手中</loc>
+		<lastmod>2021-04-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:医疗与互联网</loc>
 		<lastmod>2021-04-02</lastmod>
 		<changefreq>monthly</changefreq>
@@ -379,8 +391,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:四字成语</loc>
+		<lastmod>2021-04-03</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:在宿舍局域网中使用固定%2520IP，而不是%2520DHCP%2520动态%2520IP</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -410,7 +428,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:奉为圭臬%2520[fèng%2520wéi%2520guī%2520niè]</loc>
-		<lastmod>2021-04-02</lastmod>
+		<lastmod>2021-04-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -476,7 +494,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:德不配位</loc>
-		<lastmod>2021-04-02</lastmod>
+		<lastmod>2021-04-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -745,8 +763,8 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:聊聊对教材的认知偏见</loc>
-		<lastmod>2021-04-02</lastmod>
+		<loc>https://wiki.onetwo.ren/#:聊聊对应试类教材的认知偏见</loc>
+		<lastmod>2021-04-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -890,7 +908,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:首页</loc>
-		<lastmod>2021-04-02</lastmod>
+		<lastmod>2021-04-03</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
