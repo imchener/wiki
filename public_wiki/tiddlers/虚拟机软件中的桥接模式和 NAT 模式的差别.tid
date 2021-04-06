@@ -1,6 +1,6 @@
 created: 20210305054744776
 creator: Chener
-modified: 20210329143433934
+modified: 20210406070841846
 modifier: Chener
 tags: [[21 学以致用]]
 title: 虚拟机软件中的桥接模式和 NAT 模式的差别
@@ -9,7 +9,9 @@ type: text/vnd.tiddlywiki
 !! 桥接模式
 在这样的模式下。VMWare 虚拟出来的操作系统就像是局域网中的一台独立的主机，它能够访问网内不论什么一台机器。在桥接模式下，你须要手工为虚拟系统配置 IP 地址、子网掩码，__并且还要和宿主机器处于同一网段，这样虚拟系统才干和宿主机器进行通信__。同时，配置好网关和 DNS 的地址后。以实现通过局域网的网关或路由器访问互联网。
 
-!! NAT模式
+<mark>虚拟机和宿主机的关系：同一个 MAC 地址，不同局域网可分配 IP 地址。</mark>
+
+!! NAT 模式
 使用 NAT 模式，就是让虚拟系统借助 NAT (网络地址转换) 功能，通过宿主机器所在的网络来訪问公网。也就是说，使用 NAT 模式能够实如今虚拟系统里訪问互联网。NAT 模式下的虚拟系统的 TCP/IP 配置信息是由 __VMnet 8 (模拟实现了 NAT 技术，可以在 ipconfig/all 中看到)__ 虚拟网络的 DHCP Server 提供的，无法进行手工改动，__因此虚拟系统也就无法和本局域网中的其它真实主机进行通讯__。
 
 采用 NAT 模式最大的优势是虚拟系统接入互联网很简单。仅仅需要宿主机器能访问互联网。你不需要配置 IP 地址、子网掩码和默认网关。可是 DNS 地址还是要依据实际情况填的。
@@ -22,3 +24,5 @@ type: text/vnd.tiddlywiki
 ---
 
 [[cnblogs.com|https://www.cnblogs.com/qingqing1/p/11280379.html]]
+
+[[baike.baidu.com|https://baike.baidu.com/item/%E6%A1%A5%E6%8E%A5]]

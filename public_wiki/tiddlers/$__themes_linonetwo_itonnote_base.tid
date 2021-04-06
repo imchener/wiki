@@ -1,6 +1,6 @@
 created: 20210329090841409
 creator: Chener
-modified: 20210329090857562
+modified: 20210406155436739
 modifier: Chener
 tags: $:/tags/Stylesheet
 title: $:/themes/linonetwo/itonnote/base
@@ -164,9 +164,8 @@ button.tc-tag-label, span.tc-tag-label:hover {
 /**
   链接样式
 */
-
-a.tc-tiddlylink, a.tc-tiddlylink:hover, a.tc-tiddlylink:hover {
-  padding: 2px;
+a.tc-tiddlylink, a.tc-tiddlylink:hover, a.tc-tiddlylink:active {
+  padding-bottom: 0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -177,34 +176,21 @@ a.tc-tiddlylink, a.tc-tiddlylink:hover, a.tc-tiddlylink:hover {
   text-decoration: none;
   transition: background 120ms ease-in 0s;
 }
-a:hover {
-  background-color: #EEE;
+
+a.tc-tiddlylink-external {
+  text-decoration: none;
+  text-overflow: ellipsis;
 }
 
-a.tc-tiddlylink-external, a.tc-tiddlylink-external:visited {
-	padding: 2px;
-	border-bottom: 1px solid #8357d7;
-	text-decoration: none;
-  box-decoration-break: clone;
-  font-weight: 700;
-  color: #666;
+a.tc-tiddlylink-external:visited {
+  color: #7897f3;
 }
 
-a.tc-tiddlylink-external:hover {
-  background-color: #333;
-  background-image: linear-gradient(19deg, #333 0%, #CCC 100%);
-  background-clip: border-box;
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+a.tc-tiddlylink-external:hover, a.tc-tiddlylink-external:active {
+  text-decoration: underline;
 }
 
-a.tc-tiddlylink.tc-tiddlylink-resolves.tc-plugin-info.tc-popup-handle.tc-popup-absolute:hover {
-	background-color: #999;
-}
-
-/**
-	侧边栏
-*/
+/** 侧边栏 **/
 
 .tc-page-controls {
   display: flex;

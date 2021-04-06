@@ -1,0 +1,19 @@
+created: 20210406141725748
+creator: Chener
+modified: 20210406142136594
+modifier: Chener
+tags: 
+title: GoodNotes 导出选项的作用
+type: text/vnd.tiddlywiki
+
+1. PDF 数据格式-可编辑
+
+可编辑是指将笔记保存为拥有两个图层的高级 PDF 文件。上层为你写上去的笔迹，下层为背景或原文档。
+
+2. PDF 数据格式-扁平
+
+允许手写识别：在导出 PDF 之前，把你手写的笔记转化为文字编码。虽然笔迹外观仍是你手写的字体，但本质已经变为真正的可搜索字符了。
+
+---
+
+[[zhihu.com|https://www.zhihu.com/question/377549090/answer/1164327914]]
