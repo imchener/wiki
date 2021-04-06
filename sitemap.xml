@@ -127,6 +127,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:GoodNotes%2520导出选项的作用</loc>
+		<lastmod>2021-04-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:IntelliJ%2520IDEA%2520自查手册</loc>
 		<lastmod>2021-03-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -145,8 +151,8 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://wiki.onetwo.ren/#:Miller%2520结论</loc>
-		<lastmod>2021-03-29</lastmod>
+		<loc>https://wiki.onetwo.ren/#:Miller%2520法则</loc>
+		<lastmod>2021-04-04</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -219,6 +225,12 @@
 	<url>
 		<loc>https://wiki.onetwo.ren/#:tiddlywiki_icon-black.png</loc>
 		<lastmod>2021-02-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:uTools%2520使用体验</loc>
+		<lastmod>2021-04-04</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -458,13 +470,13 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:学习任何知识都是在学习它的历史</loc>
-		<lastmod>2021-04-02</lastmod>
+		<lastmod>2021-04-04</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:将知识结点连成线的标签</loc>
-		<lastmod>2021-04-02</lastmod>
+		<lastmod>2021-04-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -559,6 +571,18 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://wiki.onetwo.ren/#:文章排版</loc>
+		<lastmod>2021-04-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://wiki.onetwo.ren/#:文章排版规范精选指南</loc>
+		<lastmod>2021-04-06</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://wiki.onetwo.ren/#:明知识、默知识和暗知识</loc>
 		<lastmod>2021-03-29</lastmod>
 		<changefreq>monthly</changefreq>
@@ -608,7 +632,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:没加%2520Tag%2520的笔记</loc>
-		<lastmod>2021-04-03</lastmod>
+		<lastmod>2021-04-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -800,7 +824,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:虚拟机软件中的桥接模式和%2520NAT%2520模式的差别</loc>
-		<lastmod>2021-03-29</lastmod>
+		<lastmod>2021-04-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -896,7 +920,7 @@
 	</url>
 	<url>
 		<loc>https://wiki.onetwo.ren/#:首页</loc>
-		<lastmod>2021-04-03</lastmod>
+		<lastmod>2021-04-06</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
