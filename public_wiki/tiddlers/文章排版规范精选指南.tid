@@ -1,6 +1,6 @@
 created: 20210406134957639
 creator: Chener
-modified: 20210406143944377
+modified: 20210409103205629
 modifier: Chener
 tags: [[20 自查手册]]
 title: 文章排版规范精选指南
@@ -12,4 +12,4 @@ type: text/vnd.tiddlywiki
 * 那些被大量错用的符号：[[别再用「六个点」当省略号了，这些标点都有更规范的输入方式|https://sspai.com/post/45516]]
 * 更好的进行中西文排版：[[为什么你们就是不能加个空格呢？|https://sspai.com/post/33549]]
 * 你应该感兴趣的一个开源项目：[[盘古之白|https://github.com/vinta/pangu.js]]
-* W3C 也指定了关于这类问题的规范：[[中文排版需求|https://w3c.github.io/clreq]]
+* W3C 也指定了关于这类问题的规范：[[中文排版需求|https://w3c.github.io/clreq/]]

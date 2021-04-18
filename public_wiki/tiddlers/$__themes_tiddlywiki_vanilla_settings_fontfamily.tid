@@ -1,8 +1,8 @@
 created: 20210221091027724
 creator: Chener
-modified: 20210406144301875
+modified: 20210418092356123
 modifier: Chener
 title: $:/themes/tiddlywiki/vanilla/settings/fontfamily
 type: text/vnd.tiddlywiki
 
-"Source Han Sans", "Microsoft YaHei", -apple-system, Arial
+system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"
