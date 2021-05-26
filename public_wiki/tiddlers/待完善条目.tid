@@ -1,9 +1,0 @@
-color: #0eb83a
-created: 20210323114602021
-creator: Chener
-modified: 20210328135527291
-modifier: Chener
-title: 待完善条目
-type: text/vnd.tiddlywiki
-
-<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

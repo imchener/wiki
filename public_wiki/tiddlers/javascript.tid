@@ -1,9 +1,0 @@
-created: 20210325050949865
-creator: Chener
-modified: 20210329143323480
-modifier: Chener
-tags: [[14 编程问题]]
-title: javascript
-type: text/vnd.tiddlywiki
-
-<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

@@ -1,9 +1,0 @@
-created: 20210306093552906
-creator: Chener
-modified: 20210329143812383
-modifier: Chener
-tags: [[20 自查手册]]
-title: Surfingkeys 配置问题收录
-type: text/vnd.tiddlywiki
-
-1. [[在某个页面时禁用 Surfingkeys|http://127.0.0.1:5013/#:%24%3A%2Ffavicon.ico%20%24%3A%2FAdvancedSearch%20Index]]：<kbd>Alt</kbd> + <kbd>S</kbd> 可以快捷添加当前网址到禁用列表中。
